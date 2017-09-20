@@ -7,6 +7,7 @@ Changelog v0.0.1 (To be announced) :
   - Welcome Screen recreated;
   - Character Creation menu created;
   - Species/Races Spawn Location found;
+  - Environment clock synchronized with the server clock;
   - Forced First Person implemented;
   - Some Debug Commands (/getpos, /setpos, /sv) created;
   
