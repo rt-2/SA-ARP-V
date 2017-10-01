@@ -5,8 +5,8 @@ There is no active revision(s).
 v0.0.2's goal is to bring some basic systems to start creating.
 <br><br>
 Changelog v0.0.2 (TBA) :
-  - Ingame Menu system created;
   - Proximity Voice Chat;
+  - Ingame Menu system created;
   - Other bugs and fixes;
 
 <br><br>
