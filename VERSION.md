@@ -4,9 +4,10 @@ There is no active revision(s).
 <br><br>
 v0.0.2's goal is to bring some basic systems to start creating.
 <br><br>
-Changelog v0.0.2 (TBA) :
+Changelog v0.0.2 (17th October 2017) :
   - Proximity Voice Chat;
   - Ingame Menu system created;
+  - Some Testing Commands (/test_camera, /test_drawtext, /test_drawrect) created;
   - Other bugs and fixes;
 
 <br><br>
