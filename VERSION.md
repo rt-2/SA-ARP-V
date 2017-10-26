@@ -2,6 +2,14 @@ The version is currently: 0.0.1<br>
 There is no active revision(s).
 
 <br><br>
+v0.0.3's goal is to start building the basic features.
+<br><br>
+Changelog v0.0.3 (TBA) :
+  - Character Customization menu finished;
+  - More Testing Commands (/test_drawmarker) created;
+  - Other bugs and fixes;
+
+<br><br>
 v0.0.2's goal is to bring some basic systems to start creating.
 <br><br>
 Changelog v0.0.2 (17th October 2017) :
