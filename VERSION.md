@@ -6,6 +6,7 @@ v0.0.3's goal is to start building the basic features.
 <br><br>
 Changelog v0.0.3 (TBA) :
   - Character Customization menu finished;
+  - Created a Markers and 3dText Streamer;
   - More Testing Commands (/test_drawmarker) created;
   - Other bugs and fixes;
 
