@@ -15,7 +15,7 @@ Changelog v0.0.3 (TBA) :
 v0.0.2's goal is to bring some basic systems to start creating.
 <br><br>
 Changelog v0.0.2 (17th October 2017) :
-  - Proximity Voice Chat;
+  - Proximity Voice Chat added;
   - Ingame Menu system created;
   - Some Testing Commands (/test_camera, /test_drawtext, /test_drawrect) created;
   - Other bugs and fixes;
