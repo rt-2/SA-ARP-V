@@ -5,6 +5,7 @@ There is no active revision(s).
 v0.0.3's goal is to start building the basic features.
 <br><br>
 Changelog v0.0.3 (TBA) :
+  - Account System added;
   - Building System created;
   - Character Customization menu finished;
   - Created a Markers and 3dTexts Streamer;
