@@ -1,10 +1,10 @@
-The version is currently: 0.0.1<br>
+The version is currently: 0.0.3<br>
 There is no active revision(s).
 
 <br><br>
 v0.0.3's goal is to start building the basic features.
 <br><br>
-Changelog v0.0.3 (TBA) :
+Changelog v0.0.3 (18th November 2017) :
   - Account System added;
   - Building System created;
   - Character Customization menu finished;
