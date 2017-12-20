@@ -1,5 +1,14 @@
-The version is currently: 0.0.3<br>
+The version is currently: 0.0.4<br>
 There is no active revision(s).
+
+<br><br>
+v0.0.4's goal is to start building the basic features.
+<br><br>
+Changelog v0.0.4 (19th December 2017) :
+  - Updated to RageMP 0.3.2 RC1;
+  - Developed mapping technologie(s);
+  - Fixed wrong IP being sent to the master list;
+  - Other bugs and fixes;
 
 <br><br>
 v0.0.3's goal is to start building the basic features.
