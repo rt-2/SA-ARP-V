@@ -2,7 +2,7 @@ The version is currently: 0.0.5<br>
 There is no active revision(s).
 
 <br><br>
-v0.0.5's goal is to start building the basic features.
+v0.0.5's goal is to catch up with Rage's update and fix the new RC bugs.
 <br><br>
 Changelog v0.0.5 (19th January 2018) :
   - Updated to RageMP 0.3.2 RC-2;
@@ -12,7 +12,7 @@ Changelog v0.0.5 (19th January 2018) :
   - Other bugs and fixes;
   
 <br><br>
-v0.0.4's goal is to start building the basic features.
+v0.0.4's goal is to have a better working environment and catch up with Rage's update.
 <br><br>
 Changelog v0.0.4 (19th December 2017) :
   - Updated to RageMP 0.3.2 RC-1;
